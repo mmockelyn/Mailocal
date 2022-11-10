@@ -1,11 +1,11 @@
 {
     "type": "project",
     "license": "MIT",
-    "name": "jfoucher/mailocal",
+    "name": "mmockelyn/mailocal",
     "description": "Debug your emails while making sure real customers never see them.",
     "bin": ["bin/mailocal", "bin/console"],
     "require": {
-        "php": "^7.3",
+        "php": "^8.1",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "html2text/html2text": "^4.2",
